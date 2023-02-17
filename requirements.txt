@@ -1,0 +1,4 @@
+pytangle~=0.0.2
+tweepy~=4.12.1
+python-dotenv~=0.21.1
+tqdm~=4.64.1
